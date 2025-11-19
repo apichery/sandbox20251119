@@ -58,11 +58,11 @@
       "importTimeMode": "INSTALL_IF_MISS"
     }
   },
-  "owner": "admin",
+  "owner": "arnaud",
   "permissionsVersion": "V2",
   "permissions": [
     {
-      "user": "arnaud",
+      "user": "foobar",
       "admin": false,
       "editPermissions": false,
       "readProjectContent": true,
