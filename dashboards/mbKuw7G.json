@@ -1,0 +1,180 @@
+{
+  "pages": [
+    {
+      "id": "zn3eISV",
+      "grid": {
+        "tiles": []
+      },
+      "show": true,
+      "showTitle": false,
+      "titleAlign": "CENTER",
+      "titleFontColor": "#444444",
+      "titleFontSize": 28,
+      "enableCrossFilters": true,
+      "backgroundColor": "#ffffff",
+      "showFilterPanel": true,
+      "filtersParams": {
+        "panelPosition": "TOP",
+        "engineType": "LINO"
+      }
+    }
+  ],
+  "owner": "admin",
+  "listed": true,
+  "name": "x\u0027s default dashboard",
+  "theme": {
+    "id": "__dku_deuteranopia1__",
+    "name": "Deuteranopia",
+    "colors": [
+      "#193C81",
+      "#7EA0F9",
+      "#211924",
+      "#757A8D",
+      "#D6C222",
+      "#776A37",
+      "#AE963A",
+      "#655E5D"
+    ],
+    "themePalettes": {
+      "discrete": {
+        "id": "default_theme",
+        "name": "Theme default",
+        "category": "BUILT_IN",
+        "colors": [
+          "#193C81",
+          "#7EA0F9",
+          "#211924",
+          "#757A8D",
+          "#D6C222",
+          "#776A37",
+          "#AE963A",
+          "#655E5D"
+        ],
+        "sample": [
+          "#193C81",
+          "#7EA0F9",
+          "#211924",
+          "#757A8D",
+          "#D6C222"
+        ],
+        "isCustom": false,
+        "createPairs": false
+      },
+      "continuous": [
+        {
+          "id": "default_theme",
+          "name": "Theme default",
+          "category": "BUILT_IN",
+          "colors": [
+            "#D4DFF6",
+            "#193C81"
+          ],
+          "isCustom": false,
+          "createPairs": false
+        },
+        {
+          "id": "default_theme_rev",
+          "name": "Theme default (rev)",
+          "category": "BUILT_IN",
+          "colors": [
+            "#193C81",
+            "#D4DFF6"
+          ],
+          "sample": [
+            "#193C81",
+            "#D4DFF6"
+          ],
+          "isCustom": false,
+          "createPairs": false
+        }
+      ],
+      "diverging": {
+        "id": "default_theme",
+        "name": "Theme default",
+        "category": "BUILT_IN",
+        "colors": [
+          "#193C81",
+          "#FFFFFF",
+          "#7EA0F9"
+        ],
+        "isCustom": false,
+        "createPairs": false
+      }
+    },
+    "palettes": {
+      "discrete": "default_theme",
+      "continuous": "default_theme",
+      "diverging": "default_theme"
+    },
+    "generalFormatting": {
+      "fontSize": 11,
+      "fontColor": "#333333",
+      "hasBackground": false,
+      "fontFamily": "SourceSansPro"
+    },
+    "pageTitleFormatting": {
+      "fontSize": 28,
+      "fontColor": "#444444",
+      "hasBackground": false
+    },
+    "tileTitleFormatting": {
+      "fontSize": 13,
+      "fontColor": "#000000",
+      "hasBackground": false
+    },
+    "chartTitleFormatting": {
+      "fontSize": 15,
+      "fontColor": "#333333",
+      "hasBackground": false
+    },
+    "legendFormatting": {
+      "fontSize": 11,
+      "fontColor": "#333333",
+      "hasBackground": false
+    },
+    "pageTitleAlignment": "CENTER",
+    "backgroundColor": "#FFFFFF",
+    "tileSpacing": 8,
+    "tileFormatting": {
+      "borderOptions": {
+        "color": "#CCCCCC",
+        "radius": 0,
+        "size": 1
+      },
+      "backgroundOpacity": 1.0
+    },
+    "isCustomized": false,
+    "isBuiltIn": true
+  },
+  "pageSectionSettings": {
+    "zoomMode": "FIT_TO_WIDTH",
+    "shouldDisplayPageSeparators": false,
+    "pageSectionFormat": {
+      "formatName": "A4",
+      "xInPx": 1754,
+      "yInPx": 1240,
+      "dpi": 150,
+      "orientation": "LANDSCAPE",
+      "ratio": 1.414516129032258
+    }
+  },
+  "showGrid": false,
+  "autoStackUp": false,
+  "columnNumber": 36,
+  "showNavigationArrows": false,
+  "reloadWhenEventReceived": false,
+  "tileSpacing": 8,
+  "circularNavigation": false,
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1782332165499
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
